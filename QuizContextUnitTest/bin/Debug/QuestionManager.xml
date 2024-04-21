@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>QuestionManager</name>
+    </assembly>
+    <members>
+        <member name="T:QuestionManager.QuestionManager">
+            <summary>
+            Clasa QuestionManager se ocupă de interogarea bazei de date pentru a prelua întrebările și răaspunsurile corecte pentru crearea testelor.
+            </summary>
+        </member>
+        <member name="T:QuestionManager.QuestionManager.Question">
+            <summary>
+            Structură pentru stocarea informațiilor despre o întrebare.
+            </summary>
+        </member>
+        <member name="M:QuestionManager.QuestionManager.Question.#ctor(System.Drawing.Image,System.Int32)">
+            <summary>
+            Constructorul pentru inițializarea informațiilor despre o întrebare.
+            </summary>
+            <param name="image">Imaginea cu întrebarea.</param>
+            <param name="raspuns">Răspunsul corect.</param>
+        </member>
+        <member name="M:QuestionManager.QuestionManager.GetQuestions(System.String)">
+            <summary>
+            Preia întrebarile din baza de date pentru materia aleasă.
+            </summary>
+            <param name="subject">Materia pentru care se preiau intrebarile.</param>
+            <returns>Un array de întrebari.</returns>
+        </member>
+        <member name="M:QuestionManager.QuestionManager.GenerateInfoQuestions">
+            <summary>
+            Generează 10 întrebări de informatică aleatorii.
+            </summary>
+            <returns>Un array de 10 întrebări.</returns>
+        </member>
+        <member name="M:QuestionManager.QuestionManager.GenerateMathQuestions">
+            <summary>
+            Generează 10 întrebări de matematică aleatorii.
+            </summary>
+            <returns>Un array de 10 întrebări.</returns>
+        </member>
+    </members>
+</doc>

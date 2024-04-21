@@ -1,0 +1,434 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TesteSimulareAdmitere</name>
+    </assembly>
+    <members>
+        <member name="T:TesteSimulareAdmitere.EndStateForm">
+            <summary>
+            Clasa EndStateForm reprezintă interfața grafică de final a quiz-ului, care permite utilizatorului să vizualizeze
+            punctajul obținut și să parcurgă testul din nou pentru a vedea răspunsurile corecte.
+            </summary>
+        </member>
+        <member name="M:TesteSimulareAdmitere.EndStateForm.#ctor(System.Collections.Generic.List{QuestionManager.QuestionManager.Question},System.Collections.Generic.List{System.Int32})">
+            <summary>
+            Inițializează o nouă instanță a clasei EndStateForm.
+            </summary>
+            <param name="allQuestions">Lista de întrebări.</param>
+            <param name="userAnswer">Lista de răspunsuri ale utilizatorului.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.EndStateForm.EndStateForm_Load(System.Object,System.EventArgs)">
+            <summary>
+            Se apelează la încărcarea form-ului și care afișează scorul și răspunsurile corecte.
+            </summary>
+            <param name="sender">Obiectul care a declanșat evenimentul.</param>
+            <param name="e">Argumentele evenimentului.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.EndStateForm.buttonBack_Click(System.Object,System.EventArgs)">
+            <summary>
+            Se apelează când utilizatorul apasă butonul "Meniu".
+            Aceasta resetează scorul și încarcă din nou starea de început a aplicației cu posibilitatea susținerii unui nou test.
+            </summary>
+            <param name="sender">Obiectul care a declanșat evenimentul.</param>
+            <param name="e">Argumentele evenimentului.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.EndStateForm.buttonInainte_Click(System.Object,System.EventArgs)">
+            <summary>
+            Se apelează când utilizatorul apasă butonul "Înainte".
+            Aceasta afișează întrebarea și răspunsul următor.
+            </summary>
+            <param name="sender">Obiectul care a declanșat evenimentul.</param>
+            <param name="e">Argumentele evenimentului.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.EndStateForm.buttonInapoi_Click(System.Object,System.EventArgs)">
+            <summary>
+            Se apelează când utilizatorul apasă butonul "Înapoi".
+            Aceasta afișează întrebarea și răspunsul anterior.
+            </summary>
+            <param name="sender">Obiectul care a declanșat evenimentul.</param>
+            <param name="e">Argumentele evenimentului.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.EndStateForm.ShowQuestionAnswer">
+            <summary>
+            Se verifică răspunsul utilizatorului și se afișează informații corespunzătoare despre răspunsul corect și răspunsul utilizatorului. 
+            </summary>
+        </member>
+        <member name="F:TesteSimulareAdmitere.EndStateForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TesteSimulareAdmitere.EndStateForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.EndStateForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:TesteSimulareAdmitere.TesteSimulareAdmitere">
+            <summary>
+            Clasa TesteSimulareAdmitere reprezintă interfața grafică principală a aplicației și gestionarea interacțiunii cu utilizatorul.    
+            </summary>
+        </member>
+        <member name="M:TesteSimulareAdmitere.TesteSimulareAdmitere.#ctor">
+            <summary>
+            Constructorul clasei TesteSimulareAdmitere. 
+            </summary>
+        </member>
+        <member name="M:TesteSimulareAdmitere.TesteSimulareAdmitere.buttonAutentificare_Click(System.Object,System.EventArgs)">
+            <summary>
+            Metoda apelată la apăsarea butonului de Autentificare. Deschide fereastra de autentificare.
+            </summary>
+            <param name="sender">Obiectul care a declanșat evenimentul.</param>
+            <param name="e">Argumentele evenimentului.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.TesteSimulareAdmitere.buttonInregistrare_Click(System.Object,System.EventArgs)">
+            <summary>
+            Metoda apelată la apăsarea butonului de Înregistrare. Deschide fereastra de înregistrare.
+            </summary>
+            <param name="sender">Obiectul care a declanșat evenimentul.</param>
+            <param name="e">Argumentele evenimentului.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.TesteSimulareAdmitere.buttonExit_Click(System.Object,System.EventArgs)">
+            <summary>
+            Metoda apelată la apăsarea butonului de Ieșire. Închide aplicația.
+            </summary>
+            <param name="sender">Obiectul care a declanșat evenimentul.</param>
+            <param name="e">Argumentele evenimentului.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.TesteSimulareAdmitere.buttonHelp_Click(System.Object,System.EventArgs)">
+            <summary>
+            Metoda apelată la apăsarea butonului de Help.
+            Oferă informații utilizatorului despre cum se folosește aplicația.
+            </summary>
+            <param name="sender">Obiectul care a declanșat evenimentul.</param>
+            <param name="e">Argumentele evenimentului.</param>
+        </member>
+        <member name="F:TesteSimulareAdmitere.TesteSimulareAdmitere.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TesteSimulareAdmitere.TesteSimulareAdmitere.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.TesteSimulareAdmitere.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:TesteSimulareAdmitere.LoginForm">
+            <summary>
+            Clasa LoginForm gestionează procesul de autentificare a unui utilizator în aplicație.
+            </summary>
+        </member>
+        <member name="M:TesteSimulareAdmitere.LoginForm.#ctor(System.Collections.Generic.List{UserManager.UserManager.User})">
+            <summary>
+            Constructorul clasei LoginForm.
+            </summary>
+            <param name="users">Lista utilizatorilor.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.LoginForm.buttonAutentificare_Click(System.Object,System.EventArgs)">
+            <summary>
+            Callback-ul pentru butonul de autentificare.
+            </summary>
+            <param name="sender">Obiectul care a declanșat evenimentul.</param>
+            <param name="e">Argumentele evenimentului.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.LoginForm.buttonBackToMenu_Click_1(System.Object,System.EventArgs)">
+            <summary>
+            Callback-ul pentru butonul de revenire la meniul principal.
+            </summary>
+            <param name="sender">Obiectul care a declanșat evenimentul.</param>
+            <param name="e">Argumentele evenimentului.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.LoginForm.textBoxUtilizator_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            Callback pentru evenimentul textChanged al textBox-ului pentru numele de utilizator.
+            </summary>
+            <param name="sender">Obiectul care a declanșat evenimentul.</param>
+            <param name="e">Argumentele evenimentului.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.LoginForm.textBoxParola_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            Callback pentru evenimentul textChanged al textBox-ului pentru parolă.
+            </summary>
+            <param name="sender">Obiectul care a declanșat evenimentul.</param>
+            <param name="e">Argumentele evenimentului.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.LoginForm.ValidateInputs">
+            <summary>
+            Este utilizată pentru a valida input-urile introduse de utilizator în câmpurile de nume de utilizator și parolă. 
+            Dacă unul dintre aceste câmpuri este gol sau necompletat, butonul de autentificare este dezactivat.
+            În caz contrar, butonul este activat și utilizatorul poate încerca să se autentifice în aplicație.
+            </summary>
+        </member>
+        <member name="F:TesteSimulareAdmitere.LoginForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TesteSimulareAdmitere.LoginForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.LoginForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:TesteSimulareAdmitere.StartStateForm">
+            <summary>
+            Clasa StartStateForm reprezintă interfața grafică de start a quiz-ului, care permite utilizatorului să selecteze
+            materia pentru test și să acceseze setările.
+            </summary>
+        </member>
+        <member name="M:TesteSimulareAdmitere.StartStateForm.#ctor">
+            <summary>
+            Inițializează o nouă instanță a clasei StartStateForm.
+            </summary>
+        </member>
+        <member name="M:TesteSimulareAdmitere.StartStateForm.buttonMate_Click(System.Object,System.EventArgs)">
+            <summary>
+            Este apelată atunci când utilizatorul selectează materia de test "Matematică".
+            Această metodă setează contextul quizContext cu întrebările de matematică generate,
+            apoi setează starea quizContext pe QuestionState și afișează starea curentă.
+            </summary>
+            <param name="sender">Obiectul care a declanșat evenimentul.</param>
+            <param name="e">Argumentele evenimentului.</param>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:TesteSimulareAdmitere.StartStateForm.buttonInfo_Click(System.Object,System.EventArgs)" -->
+        <member name="M:TesteSimulareAdmitere.StartStateForm.buttonSetari_Click(System.Object,System.EventArgs)">
+            <summary>
+            Este apelată atunci când utilizatorul dorește să acceseze setările.
+            Această metodă deschide fereastra SeettingForm.
+            </summary>
+            <param name="sender">Obiectul care a declanșat evenimentul.</param>
+            <param name="e">Argumentele evenimentului.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.StartStateForm.buttonDeconectare_Click(System.Object,System.EventArgs)">
+            <summary>
+            Este apelată atunci utilizatorul dorește deconectarea din aplicație.
+            </summary>
+            <param name="sender">Obiectul care a declanșat evenimentul.</param>
+            <param name="e">Argumentele evenimentului.</param>
+        </member>
+        <member name="F:TesteSimulareAdmitere.StartStateForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TesteSimulareAdmitere.StartStateForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.StartStateForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:TesteSimulareAdmitere.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:TesteSimulareAdmitere.RegisterForm">
+            <summary>
+            Clasa RegisterForm gestionează procesul de înregistrare a unui nou utilizator în aplicație.
+            </summary>
+        </member>
+        <member name="M:TesteSimulareAdmitere.RegisterForm.#ctor(UserManager.UserManager)">
+            <summary>
+            Inițializează o nouă instanță a clasei RegisterForm.
+            </summary>
+            <param name="userManager">Managerul de utilizatori.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.RegisterForm.buttonInregistrare_Click(System.Object,System.EventArgs)">
+            <summary>
+            Înregistrarea unui nou utilizator.
+            </summary>
+            <param name="sender">Obiectul care a declanșat evenimentul.</param>
+            <param name="e">Argumentele evenimentului.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.RegisterForm.buttonBackToMenu_Click(System.Object,System.EventArgs)">
+            <summary>
+            Deschide fereastra principală a aplicației.
+            </summary>
+            <param name="sender">Obiectul care a declanșat evenimentul.</param>
+            <param name="e">Argumentele evenimentului.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.RegisterForm.ValidateInputs">
+            <summary>
+            Verifică dacă toate campurile de input sunt completate.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TesteSimulareAdmitere.RegisterForm.IsDuplicateUser(System.String)">
+            <summary>
+            Verifică dacă există deja un utilizator cu numele dat ca parametru.
+            </summary>
+            <param name="numeUtilizator">Numele de utilizator de verificat.</param>
+            <returns>Returnează true dacă există deja un utilizator cu acest nume, false altfel.</returns>
+        </member>
+        <member name="F:TesteSimulareAdmitere.RegisterForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TesteSimulareAdmitere.RegisterForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.RegisterForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:TesteSimulareAdmitere.SettingsForm">
+            <summary>
+            Clasa SettingsForm reprezintă o fereastră pentru setările quiz-ului și contextul folosit pentru implementarea șablonului Strategy.
+            Este folosită pentru a alege modul de timp limitat sau nelimitat înainte de începerea testului.
+            </summary>
+        </member>
+        <member name="M:TesteSimulareAdmitere.SettingsForm.#ctor(TesteSimulareAdmitere.QuestionStateForm)">
+            <summary>
+            Inițializează o nouă instanță a clasei SettingsForm.
+            </summary>
+            <param name="_questionStateForm">Form-ul care conține întrebările pentru quiz.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.SettingsForm.buttonAplica_Click(System.Object,System.EventArgs)">
+            <summary>
+            Se apelează atunci când se apasă butonul de "Aplică" pentru a seta timpul de examinare.
+            </summary>
+            <param name="sender">Obiectul care a declanșat evenimentul.</param>
+            <param name="e">Argumentele evenimentului.</param>
+        </member>
+        <member name="F:TesteSimulareAdmitere.SettingsForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TesteSimulareAdmitere.SettingsForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.SettingsForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:TesteSimulareAdmitere.QuestionStateForm">
+            <summary>
+            Clasa QuestionStateForm reprezintă interfața grafică pentru momentul în care utilizatorul parcurge quiz-ul.
+            Se afișează întrebarile și posibilitătile de răspuns.
+            </summary>
+        </member>
+        <member name="M:TesteSimulareAdmitere.QuestionStateForm.#ctor">
+            <summary>
+            Inițializează o nouă instanță a clasei QuestionStateForm.
+            </summary>
+        </member>
+        <member name="M:TesteSimulareAdmitere.QuestionStateForm.QuestionStateForm_Load(System.Object,System.EventArgs)">
+            <summary>
+            Se apelează atunci când se încarcă form-ul pentru quiz.
+            </summary>
+            <param name="sender">Obiectul care a declanșat evenimentul.</param>
+            <param name="e">Argumentele evenimentului.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.QuestionStateForm.buttonNext_Click(System.Object,System.EventArgs)">
+            <summary>
+            Se apelează atunci când utilizatorul parcurge întrebările.
+            Verifică răspunsul utilizatorului și actualizează următoarea întrebare.
+            </summary>
+            <param name="sender">Obiectul care a declanșat evenimentul.</param>
+            <param name="e">Argumentele evenimentului.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.QuestionStateForm.radioButtonA_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            Metodă care se apelează atunci când utilizatorul selectează opțiunea A.
+            </summary>
+            <param name="sender">Obiectul care a declanșat evenimentul.</param>
+            <param name="e">Argumentele evenimentului.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.QuestionStateForm.radioButtonB_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            Metodă care se apelează atunci când utilizatorul selectează opțiunea B.
+            </summary>
+            <param name="sender">Obiectul care a declanșat evenimentul.</param>
+            <param name="e">Argumentele evenimentului.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.QuestionStateForm.radioButtonC_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            Metodă care se apelează atunci când utilizatorul selectează opțiunea C.
+            </summary>
+            <param name="sender">Obiectul care a declanșat evenimentul.</param>
+            <param name="e">Argumentele evenimentului.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.QuestionStateForm.radioButtonD_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            Metodă care se apelează atunci când utilizatorul selectează opțiunea D.
+            </summary>
+            <param name="sender">Obiectul care a declanșat evenimentul.</param>
+            <param name="e">Argumentele evenimentului.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.QuestionStateForm.PutQuestions">
+            <summary>
+            Metodă care setează întrebările și adaugă răspunsul utilizatorului într-o listă.
+            </summary>
+        </member>
+        <member name="F:TesteSimulareAdmitere.QuestionStateForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TesteSimulareAdmitere.QuestionStateForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TesteSimulareAdmitere.QuestionStateForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:TesteSimulareAdmitere.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:TesteSimulareAdmitere.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:TesteSimulareAdmitere.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

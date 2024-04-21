@@ -1,0 +1,92 @@
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\QuizContextUnitTest.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\QuizContextUnitTest.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\QuestionManager.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\QuizContext.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\DataBaseConnection.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\System.Data.SQLite.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\QuizState.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\TesteSimulareAdmitere.exe
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\UserManager.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\SettingsStrategy.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\QuestionManager.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\QuestionManager.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\QuizContext.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\DataBaseConnection.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\DataBaseConnection.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\DataBaseConnection.dll.config
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\System.Data.SQLite.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\QuizState.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\QuizState.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\TesteSimulareAdmitere.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\TesteSimulareAdmitere.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\TesteSimulareAdmitere.exe.config
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\UserManager.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\UserManager.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\SettingsStrategy.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\obj\Debug\QuizContextUnitTest.csproj.AssemblyReference.cache
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\obj\Debug\QuizContextUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\obj\Debug\QuizContextUnitTest.csproj.CopyComplete
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\obj\Debug\QuizContextUnitTest.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\obj\Debug\QuizContextUnitTest.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\QuizContextUnitTest.dll.config
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\EntityFramework.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\EntityFramework.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuizContextUnitTest\bin\Debug\QuizContext.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\QuizContextUnitTest.dll.config
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\QuizContextUnitTest.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\QuizContextUnitTest.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\EntityFramework.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\QuestionManager.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\QuizContext.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\System.Data.SQLite.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\System.Data.SQLite.EF6.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\System.Data.SQLite.Linq.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\DataBaseConnection.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\QuizState.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\TesteSimulareAdmitere.exe
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\UserManager.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\SettingsStrategy.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\QuestionManager.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\QuestionManager.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\EntityFramework.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\QuizContext.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\System.Data.SQLite.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\DataBaseConnection.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\DataBaseConnection.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\DataBaseConnection.dll.config
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\QuizState.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\QuizState.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\TesteSimulareAdmitere.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\TesteSimulareAdmitere.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\TesteSimulareAdmitere.exe.config
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\UserManager.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\UserManager.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\SettingsStrategy.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\obj\Debug\QuizContextUnitTest.csproj.AssemblyReference.cache
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\obj\Debug\QuizContextUnitTest.csproj.CoreCompileInputs.cache
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\obj\Debug\QuizContextUnitTest.csproj.CopyComplete
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\obj\Debug\QuizContextUnitTest.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\obj\Debug\QuizContextUnitTest.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuizContextUnitTest\bin\Debug\SettingsStrategy.xml

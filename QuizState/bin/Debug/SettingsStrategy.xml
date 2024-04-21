@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SettingsStrategy</name>
+    </assembly>
+    <members>
+        <member name="T:SettingsStrategy.LimitedTimeStrategy">
+            <summary>
+            Clasa LimitedTimeStrategy este clasa care implementeaza strategia care permite utilizatorului să parcurgă quiz-ul cu timp limitat.
+            </summary>
+        </member>
+        <member name="M:SettingsStrategy.LimitedTimeStrategy.SetTimer(TesteSimulareAdmitere.QuestionStateForm,System.String)">
+            <summary>
+            Seteaza timerul pentru quiz in functie de timpul dat.
+            </summary>
+            <param name="questionStateForm">Form-ul curent care conține intrebările.</param>
+            <param name="time">Timpul alocat quiz-ului.</param>
+        </member>
+        <member name="M:SettingsStrategy.LimitedTimeStrategy.timerTest_Tick(System.Object,System.EventArgs)">
+            <summary>
+            Funcția de callback pentru timer.
+            </summary>
+            <param name="sender">Obiectul care a declanșat evenimentul.</param>
+            <param name="e">Argumentele evenimentului.</param>
+        </member>
+        <member name="T:SettingsStrategy.Strategy">
+            <summary>
+            Clasa Strategy este o clasă abstractă pentru implementarea șablonului Strategy și definește o metodă abstractă SetTimer().
+            Aceasta va fi implementată în clasele derivate pentru a seta un timer în funcție de setările alese de utilizator.
+            </summary>
+        </member>
+        <member name="M:SettingsStrategy.Strategy.SetTimer(TesteSimulareAdmitere.QuestionStateForm,System.String)">
+            <summary>
+            Metoda abstractă pentru setarea unui timer în funcție de strategia specificată.
+            </summary>
+            <param name="questionStateForm">Form pentru starea întrebărilor.</param>
+            <param name="time">Timpul pentru setarea timerului.</param>
+        </member>
+        <member name="T:SettingsStrategy.UnlimitedTimeStrategy">
+            <summary>
+            Clasa UnlimitedTimeStrategy este clasa care implementeaza strategia care permite utilizatorului să parcurgă quiz-ul cu timp nelimitat.
+            </summary>
+        </member>
+        <member name="M:SettingsStrategy.UnlimitedTimeStrategy.SetTimer(TesteSimulareAdmitere.QuestionStateForm,System.String)">
+            <summary>
+            Seteaza timerul pentru quiz cu timp nelimitat.
+            </summary>
+            <param name="questionStateForm">Form-ul curent care conține intrebările.</param>
+            <param name="time">Timpul alocat quiz-ului.</param>
+        </member>
+    </members>
+</doc>

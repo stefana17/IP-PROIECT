@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>QuizContext</name>
+    </assembly>
+    <members>
+        <member name="T:QuizContext.QuizContext">
+            <summary>
+            Clasa QuizContext ceste clasa care gestionează starea quiz-ului și întrebările asociate.
+            </summary>
+        </member>
+        <member name="F:QuizContext.QuizContext._questions">
+            <summary>
+            Un array de obiecte Question care reprezintă întrebarile testului.
+            </summary>
+        </member>
+        <member name="F:QuizContext.QuizContext._currentState">
+            <summary>
+            O referință la starea curentă a quiz-ului, implementată prin intermediul interfeței IQuizState.
+            </summary>
+        </member>
+        <member name="F:QuizContext.QuizContext._score">
+            <summary>
+            Scorul curent al utilizatorului.
+            </summary>
+        </member>
+        <member name="M:QuizContext.QuizContext.#ctor">
+            <summary>
+            Constructorul clasei care inițializează scorul cu zero și starea curentă a quiz-ului cu starea de start.
+            </summary>
+        </member>
+        <member name="M:QuizContext.QuizContext.SetState(QuizState.IQuizState)">
+            <summary>
+            Setează starea curentă a quiz-ului cu starea dată ca parametru.
+            </summary>
+            <param name="state">Starea de setat</param>
+        </member>
+        <member name="M:QuizContext.QuizContext.SetQuestion(QuestionManager.QuestionManager.Question[])">
+            <summary>
+            Setează întrebările pentru quiz.
+            </summary>
+            <param name="questions">Lista de întrebări de setat</param>
+        </member>
+        <member name="M:QuizContext.QuizContext.DisplayState(System.Windows.Forms.Form)">
+            <summary>
+            Afișează starea curentă a quiz-ului.
+            </summary>
+            <param name="owner">Form-ul pe care se va afișa starea curentă.</param>
+        </member>
+        <member name="M:QuizContext.QuizContext.IncreaseScore">
+            <summary>
+            Incrementează scorul cu 1.
+            </summary>
+        </member>
+        <member name="M:QuizContext.QuizContext.GetScore">
+            <summary>
+            Returnează scorul curent.
+            </summary>
+            <returns>Scorul curent</returns>
+        </member>
+        <member name="M:QuizContext.QuizContext.SetScore">
+            <summary>
+            Setează scorul la 0.
+            </summary>
+        </member>
+        <member name="M:QuizContext.QuizContext.GetQuestion(System.Int32)">
+            <summary>
+            Returnează întrebarea de la indexul dat ca parametru.
+            </summary>
+            <param name="index">Indexul întrebării de returnat</param>
+            <returns>Întrebarea de la indexul dat ca parametru</returns>
+        </member>
+    </members>
+</doc>
