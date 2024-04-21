@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DataBaseConnection</name>
+    </assembly>
+    <members>
+        <member name="T:DataBaseConnection.DataBaseManager">
+            <summary>
+            Clasă pentru gestionarea conexiunii la baza de date. Utilizează șablonul Singleton pentru a asigura o singură instanță a conexiunii la baza de date.
+            </summary>
+        </member>
+        <member name="F:DataBaseConnection.DataBaseManager._sqlite_conn">
+            <summary>
+            Conexiunea la baza de date.
+            </summary>
+        </member>
+        <member name="F:DataBaseConnection.DataBaseManager._instance">
+            <summary>
+            Singura instanță a clasei DataBaseManager.
+            </summary>
+        </member>
+        <member name="M:DataBaseConnection.DataBaseManager.#ctor">
+            <summary>
+            Constructorul clasei. Creează o nouă conexiune la baza de date SQLite.
+            </summary>
+        </member>
+        <member name="M:DataBaseConnection.DataBaseManager.GetInstance">
+            <summary>
+            Returnează instanța comună la nivel de aplicație a clasei DataBaseManager, prin intermediul Singleton Design Pattern.
+            </summary>
+            <returns>Instanța unică a clasei DataBaseManager.</returns>
+        </member>
+        <member name="M:DataBaseConnection.DataBaseManager.GetConnection">
+            <summary>
+            Returnează conexiunea la baza de date. Deschide conexiunea dacă aceasta nu este deja deschisă.
+            </summary>
+            <returns>Conexiunea la baza de date sau valoarea null în cazul în care a apărut o eroare la deschiderea conexiunii.</returns>
+        </member>
+        <member name="M:DataBaseConnection.DataBaseManager.CloseConnection">
+            <summary>
+            Închide conexiunea la baza de date și eliberează resursele asociate.
+            </summary>
+        </member>
+    </members>
+</doc>

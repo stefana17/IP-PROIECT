@@ -1,0 +1,48 @@
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuestionManagerUnitTest\obj\Debug\QuestionManagerUnitTest.csproj.AssemblyReference.cache
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuestionManagerUnitTest\obj\Debug\QuestionManagerUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuestionManagerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuestionManagerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuestionManagerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuestionManagerUnitTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuestionManagerUnitTest\bin\Debug\QuestionManagerUnitTest.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuestionManagerUnitTest\bin\Debug\QuestionManagerUnitTest.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuestionManagerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuestionManagerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuestionManagerUnitTest\bin\Debug\QuestionManager.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuestionManagerUnitTest\bin\Debug\DataBaseConnection.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuestionManagerUnitTest\bin\Debug\System.Data.SQLite.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuestionManagerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuestionManagerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuestionManagerUnitTest\bin\Debug\QuestionManager.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuestionManagerUnitTest\bin\Debug\QuestionManager.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuestionManagerUnitTest\bin\Debug\DataBaseConnection.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuestionManagerUnitTest\bin\Debug\DataBaseConnection.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuestionManagerUnitTest\bin\Debug\DataBaseConnection.dll.config
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuestionManagerUnitTest\bin\Debug\System.Data.SQLite.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuestionManagerUnitTest\obj\Debug\QuestionManagerUnitTest.csproj.CopyComplete
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuestionManagerUnitTest\obj\Debug\QuestionManagerUnitTest.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\QuestionManagerUnitTest\obj\Debug\QuestionManagerUnitTest.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuestionManagerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuestionManagerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuestionManagerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuestionManagerUnitTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuestionManagerUnitTest\bin\Debug\QuestionManagerUnitTest.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuestionManagerUnitTest\bin\Debug\QuestionManagerUnitTest.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuestionManagerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuestionManagerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuestionManagerUnitTest\bin\Debug\QuestionManager.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuestionManagerUnitTest\bin\Debug\DataBaseConnection.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuestionManagerUnitTest\bin\Debug\System.Data.SQLite.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuestionManagerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuestionManagerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuestionManagerUnitTest\bin\Debug\QuestionManager.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuestionManagerUnitTest\bin\Debug\QuestionManager.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuestionManagerUnitTest\bin\Debug\DataBaseConnection.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuestionManagerUnitTest\bin\Debug\DataBaseConnection.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuestionManagerUnitTest\bin\Debug\DataBaseConnection.dll.config
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuestionManagerUnitTest\bin\Debug\System.Data.SQLite.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuestionManagerUnitTest\obj\Debug\QuestionManagerUnitTest.csproj.AssemblyReference.cache
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuestionManagerUnitTest\obj\Debug\QuestionManagerUnitTest.csproj.CoreCompileInputs.cache
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuestionManagerUnitTest\obj\Debug\QuestionManagerUnitTest.csproj.CopyComplete
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuestionManagerUnitTest\obj\Debug\QuestionManagerUnitTest.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\QuestionManagerUnitTest\obj\Debug\QuestionManagerUnitTest.pdb
