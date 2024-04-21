@@ -1,0 +1,78 @@
+E:\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\DataBaseConnectionUnitTest.dll.config
+E:\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\DataBaseConnectionUnitTest.dll
+E:\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\DataBaseConnectionUnitTest.pdb
+E:\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\DataBaseConnection.dll
+E:\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\EntityFramework.dll
+E:\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\System.Data.SQLite.dll
+E:\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\System.Data.SQLite.EF6.dll
+E:\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\System.Data.SQLite.Linq.dll
+E:\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\DataBaseConnection.pdb
+E:\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\DataBaseConnection.dll.config
+E:\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\EntityFramework.xml
+E:\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\System.Data.SQLite.xml
+E:\ProjectIP\DataBaseConnectionUnitTest\obj\Debug\DataBaseConnectionUnitTest.csproj.AssemblyReference.cache
+E:\ProjectIP\DataBaseConnectionUnitTest\obj\Debug\DataBaseConnectionUnitTest.csproj.CoreCompileInputs.cache
+E:\ProjectIP\DataBaseConnectionUnitTest\obj\Debug\DataBaseConnectionUnitTest.csproj.CopyComplete
+E:\ProjectIP\DataBaseConnectionUnitTest\obj\Debug\DataBaseConnectionUnitTest.dll
+E:\ProjectIP\DataBaseConnectionUnitTest\obj\Debug\DataBaseConnectionUnitTest.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\DataBaseConnectionUnitTest.dll.config
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\DataBaseConnectionUnitTest.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\DataBaseConnectionUnitTest.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\DataBaseConnection.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\EntityFramework.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\System.Data.SQLite.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\DataBaseConnection.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\DataBaseConnection.dll.config
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\EntityFramework.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\System.Data.SQLite.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\DataBaseConnectionUnitTest\obj\Debug\DataBaseConnectionUnitTest.csproj.AssemblyReference.cache
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\DataBaseConnectionUnitTest\obj\Debug\DataBaseConnectionUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\DataBaseConnectionUnitTest\obj\Debug\DataBaseConnectionUnitTest.csproj.CopyComplete
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\DataBaseConnectionUnitTest\obj\Debug\DataBaseConnectionUnitTest.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\DataBaseConnectionUnitTest\obj\Debug\DataBaseConnectionUnitTest.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\DataBaseConnectionUnitTest.dll.config
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\DataBaseConnectionUnitTest.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\DataBaseConnectionUnitTest.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\DataBaseConnection.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\EntityFramework.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\System.Data.SQLite.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\System.Data.SQLite.EF6.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\System.Data.SQLite.Linq.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\DataBaseConnection.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\DataBaseConnection.dll.config
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\EntityFramework.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\DataBaseConnectionUnitTest\bin\Debug\System.Data.SQLite.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\DataBaseConnectionUnitTest\obj\Debug\DataBaseConnectionUnitTest.csproj.AssemblyReference.cache
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\DataBaseConnectionUnitTest\obj\Debug\DataBaseConnectionUnitTest.csproj.CoreCompileInputs.cache
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\DataBaseConnectionUnitTest\obj\Debug\DataBaseConnectionUnitTest.csproj.CopyComplete
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\DataBaseConnectionUnitTest\obj\Debug\DataBaseConnectionUnitTest.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\DataBaseConnectionUnitTest\obj\Debug\DataBaseConnectionUnitTest.pdb
