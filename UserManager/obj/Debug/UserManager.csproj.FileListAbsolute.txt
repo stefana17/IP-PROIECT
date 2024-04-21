@@ -1,0 +1,67 @@
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\UserManager\bin\Debug\UserManager.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\UserManager\bin\Debug\UserManager.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\UserManager\bin\Debug\DataBaseConnection.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\UserManager\bin\Debug\EntityFramework.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\UserManager\bin\Debug\EntityFramework.SqlServer.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\UserManager\bin\Debug\QuestionManager.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\UserManager\bin\Debug\System.Data.SQLite.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\UserManager\bin\Debug\System.Data.SQLite.EF6.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\UserManager\bin\Debug\System.Data.SQLite.Linq.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\UserManager\bin\Debug\DataBaseConnection.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\UserManager\bin\Debug\DataBaseConnection.dll.config
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\UserManager\bin\Debug\EntityFramework.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\UserManager\bin\Debug\EntityFramework.SqlServer.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\UserManager\bin\Debug\QuestionManager.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\UserManager\bin\Debug\System.Data.SQLite.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\UserManager\obj\Debug\UserManager.csproj.AssemblyReference.cache
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\UserManager\obj\Debug\UserManager.csproj.CoreCompileInputs.cache
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\UserManager\obj\Debug\UserManager.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\UserManager\obj\Debug\UserManager.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\UserManager\obj\Debug\UserManager.csproj.CopyComplete
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\UserManager\bin\Debug\UserManager.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\UserManager\bin\Debug\UserManager.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\UserManager\bin\Debug\DataBaseConnection.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\UserManager\bin\Debug\EntityFramework.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\UserManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\UserManager\bin\Debug\QuestionManager.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\UserManager\bin\Debug\System.Data.SQLite.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\UserManager\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\UserManager\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\UserManager\bin\Debug\DataBaseConnection.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\UserManager\bin\Debug\DataBaseConnection.dll.config
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\UserManager\bin\Debug\EntityFramework.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\UserManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\UserManager\bin\Debug\QuestionManager.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\UserManager\bin\Debug\System.Data.SQLite.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\UserManager\obj\Debug\UserManager.csproj.AssemblyReference.cache
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\UserManager\obj\Debug\UserManager.csproj.CoreCompileInputs.cache
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\UserManager\obj\Debug\UserManager.csproj.CopyComplete
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\UserManager\obj\Debug\UserManager.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\UserManager\obj\Debug\UserManager.pdb
+E:\ProjectIP\UserManager\obj\Debug\UserManager.csproj.CoreCompileInputs.cache
+E:\ProjectIP\UserManager\bin\Debug\UserManager.xml
+E:\ProjectIP\UserManager\bin\Debug\UserManager.dll
+E:\ProjectIP\UserManager\bin\Debug\UserManager.pdb
+E:\ProjectIP\UserManager\bin\Debug\DataBaseConnection.dll
+E:\ProjectIP\UserManager\bin\Debug\EntityFramework.dll
+E:\ProjectIP\UserManager\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProjectIP\UserManager\bin\Debug\System.Data.SQLite.dll
+E:\ProjectIP\UserManager\bin\Debug\System.Data.SQLite.EF6.dll
+E:\ProjectIP\UserManager\bin\Debug\System.Data.SQLite.Linq.dll
+E:\ProjectIP\UserManager\bin\Debug\DataBaseConnection.pdb
+E:\ProjectIP\UserManager\bin\Debug\DataBaseConnection.dll.config
+E:\ProjectIP\UserManager\bin\Debug\EntityFramework.xml
+E:\ProjectIP\UserManager\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProjectIP\UserManager\bin\Debug\System.Data.SQLite.xml
+E:\ProjectIP\UserManager\obj\Debug\UserManager.csproj.AssemblyReference.cache
+E:\ProjectIP\UserManager\obj\Debug\UserManager.csproj.CopyComplete
+E:\ProjectIP\UserManager\obj\Debug\UserManager.dll
+E:\ProjectIP\UserManager\obj\Debug\UserManager.pdb
+E:\ProjectIP\UserManager\bin\Debug\QuestionManager.dll
+E:\ProjectIP\UserManager\bin\Debug\QuestionManager.pdb
+E:\ProjectIP\UserManager\bin\Debug\QuestionManager.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\UserManager\bin\Debug\UserManager.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\UserManager\bin\Debug\QuestionManager.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\UserManager\bin\Debug\UserManager.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\UserManager\bin\Debug\QuestionManager.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\UserManager\bin\Debug\DataBaseConnection.xml

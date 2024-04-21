@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UserManager</name>
+    </assembly>
+    <members>
+        <member name="T:UserManager.UserManager">
+            <summary>
+            Clasa UserManager gestionează operațiile pe utilizatori și se ocupă de interogarea bazei de date pentru a prelua și salva datele utilizatorilor.
+            </summary>
+        </member>
+        <member name="T:UserManager.UserManager.User">
+            <summary>
+            Structură pentru stocarea informațiilor despre un utilizator.
+            </summary>
+        </member>
+        <member name="M:UserManager.UserManager.User.#ctor(System.String,System.String,System.String,System.String)">
+            <summary>
+            Constructorul pentru inițializarea informațiilor despre un utilizator.
+            </summary>
+            <param name="nume">Numele utilizatorului.</param>
+            <param name="prenume">Prenumele utilizatorului.</param>
+            <param name="numeUtilizator">Numele de utilizator.</param>
+            <param name="parola">Parola utilizatorului.</param>
+        </member>
+        <member name="M:UserManager.UserManager.#ctor">
+            <summary>
+            Constructorul clasei UserManager. Inițializează lista de utilizatori cu o listă nouă vidă.
+            </summary>
+        </member>
+        <member name="M:UserManager.UserManager.AddUser(System.String,System.String,System.String,System.String)">
+            <summary>
+            Adaugă un utilizator în baza de date.
+            </summary>
+            <param name="nume">Numele utilizatorului.</param>
+            <param name="prenume">Prenumele utilizatorului.</param>
+            <param name="numeUtilizator">Numele de utilizator.</param>
+            <param name="parola">Parola utilizatorului.</param>
+        </member>
+        <member name="M:UserManager.UserManager.ReadUsers">
+            <summary>
+            Citeste utilizatorii din baza de date și îi adaugă în lista _users.
+            </summary>
+        </member>
+        <member name="M:UserManager.UserManager.GetUsers">
+            <summary>
+            Returnează o listă cu toți utilizatorii din baza de date. Metoda citeste utilizatorii din baza de date folosind metoda privată ReadUsers().
+            </summary>
+            <returns>O listă cu toți utilizatorii din baza de date</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,87 @@
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\bin\Debug\SettingsStrategy.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\bin\Debug\SettingsStrategy.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\bin\Debug\QuizContext.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\bin\Debug\QuizState.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\bin\Debug\TesteSimulareAdmitere.exe
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\bin\Debug\QuestionManager.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\bin\Debug\DataBaseConnection.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\bin\Debug\UserManager.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\bin\Debug\System.Data.SQLite.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\bin\Debug\QuizContext.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\bin\Debug\QuizState.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\bin\Debug\TesteSimulareAdmitere.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\bin\Debug\TesteSimulareAdmitere.exe.config
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\bin\Debug\QuestionManager.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\bin\Debug\DataBaseConnection.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\bin\Debug\DataBaseConnection.dll.config
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\bin\Debug\UserManager.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\bin\Debug\System.Data.SQLite.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\obj\Debug\SettingsStrategy.csproj.AssemblyReference.cache
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\obj\Debug\SettingsStrategy.csproj.CoreCompileInputs.cache
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\obj\Debug\SettingsStrategy.csproj.CopyComplete
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\obj\Debug\SettingsStrategy.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\obj\Debug\SettingsStrategy.pdb
+E:\ProjectIP\SettingsStrategy\obj\Debug\SettingsStrategy.csproj.AssemblyReference.cache
+E:\ProjectIP\SettingsStrategy\obj\Debug\SettingsStrategy.csproj.CoreCompileInputs.cache
+E:\ProjectIP\SettingsStrategy\bin\Debug\SettingsStrategy.xml
+E:\ProjectIP\SettingsStrategy\bin\Debug\SettingsStrategy.dll
+E:\ProjectIP\SettingsStrategy\bin\Debug\SettingsStrategy.pdb
+E:\ProjectIP\SettingsStrategy\bin\Debug\QuizContext.dll
+E:\ProjectIP\SettingsStrategy\bin\Debug\QuizState.dll
+E:\ProjectIP\SettingsStrategy\bin\Debug\TesteSimulareAdmitere.exe
+E:\ProjectIP\SettingsStrategy\bin\Debug\QuestionManager.dll
+E:\ProjectIP\SettingsStrategy\bin\Debug\DataBaseConnection.dll
+E:\ProjectIP\SettingsStrategy\bin\Debug\UserManager.dll
+E:\ProjectIP\SettingsStrategy\bin\Debug\System.Data.SQLite.dll
+E:\ProjectIP\SettingsStrategy\bin\Debug\QuizContext.pdb
+E:\ProjectIP\SettingsStrategy\bin\Debug\QuizContext.xml
+E:\ProjectIP\SettingsStrategy\bin\Debug\QuizState.pdb
+E:\ProjectIP\SettingsStrategy\bin\Debug\QuizState.xml
+E:\ProjectIP\SettingsStrategy\bin\Debug\QuestionManager.pdb
+E:\ProjectIP\SettingsStrategy\bin\Debug\QuestionManager.xml
+E:\ProjectIP\SettingsStrategy\bin\Debug\System.Data.SQLite.xml
+E:\ProjectIP\SettingsStrategy\obj\Debug\SettingsStrategy.csproj.CopyComplete
+E:\ProjectIP\SettingsStrategy\obj\Debug\SettingsStrategy.dll
+E:\ProjectIP\SettingsStrategy\obj\Debug\SettingsStrategy.pdb
+E:\ProjectIP\SettingsStrategy\bin\Debug\DataBaseConnection.pdb
+E:\ProjectIP\SettingsStrategy\bin\Debug\DataBaseConnection.xml
+E:\ProjectIP\SettingsStrategy\bin\Debug\DataBaseConnection.dll.config
+E:\ProjectIP\SettingsStrategy\bin\Debug\UserManager.pdb
+E:\ProjectIP\SettingsStrategy\bin\Debug\UserManager.xml
+E:\ProjectIP\SettingsStrategy\bin\Debug\TesteSimulareAdmitere.pdb
+E:\ProjectIP\SettingsStrategy\bin\Debug\TesteSimulareAdmitere.exe.config
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\bin\Debug\SettingsStrategy.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\bin\Debug\QuizContext.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\bin\Debug\QuizState.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\bin\Debug\QuestionManager.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\bin\Debug\DataBaseConnection.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\SettingsStrategy\bin\Debug\UserManager.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\bin\Debug\SettingsStrategy.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\bin\Debug\SettingsStrategy.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\bin\Debug\SettingsStrategy.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\bin\Debug\QuizContext.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\bin\Debug\QuizState.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\bin\Debug\TesteSimulareAdmitere.exe
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\bin\Debug\QuestionManager.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\bin\Debug\DataBaseConnection.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\bin\Debug\UserManager.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\bin\Debug\System.Data.SQLite.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\bin\Debug\QuizContext.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\bin\Debug\QuizContext.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\bin\Debug\QuizState.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\bin\Debug\QuizState.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\bin\Debug\TesteSimulareAdmitere.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\bin\Debug\TesteSimulareAdmitere.exe.config
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\bin\Debug\QuestionManager.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\bin\Debug\QuestionManager.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\bin\Debug\DataBaseConnection.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\bin\Debug\DataBaseConnection.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\bin\Debug\DataBaseConnection.dll.config
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\bin\Debug\UserManager.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\bin\Debug\UserManager.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\bin\Debug\System.Data.SQLite.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\obj\Debug\SettingsStrategy.csproj.AssemblyReference.cache
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\obj\Debug\SettingsStrategy.csproj.CoreCompileInputs.cache
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\obj\Debug\SettingsStrategy.csproj.CopyComplete
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\obj\Debug\SettingsStrategy.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\SettingsStrategy\obj\Debug\SettingsStrategy.pdb
